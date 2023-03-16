@@ -1,0 +1,235 @@
+#top{
+    background-color:black;
+    position:absolute;
+    overflow:hidden;
+    width:98.5%;
+    color:brown;
+}
+#contact{
+    float:left;
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+#contactbt{
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+    text-align: center;
+    background-color: black;
+    border-style:inset;
+    border-radius:25%;
+    border-color:white;
+    border-width:0.3vw;
+    color:brown;
+    width:9vw;
+    /* height:7vh; */
+    font-size:2vw;
+    font-weight:bold;
+}
+#contactdw{
+    display:none;
+    z-index:2;
+    position:fixed;
+}
+#contactdw button{
+    float:none;
+    display:block;
+    background-color: black;
+    border-style:inset;
+    border-radius:10%;
+    border-color:brown;
+    border-width:0.3vw;
+    width:18vw;
+    /* height:7vh; */
+    color:white;
+    font-size:2vw;
+    font-weight:bold;
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+#contact:hover #contactdw{
+    display:block;
+}
+#contact:hover #contactbt{
+    background-color: white;
+    border-color:rgb(168, 168, 168);
+}
+#contactdw button:hover{
+    background-color: white;
+    color:black;
+}
+#menu{
+    float:left;
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+#menubt{
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+    text-align: center;
+    background-color: black;
+    border-style:inset;
+    border-radius:25%;
+    border-color:white;
+    border-width:0.3vw;
+    color:brown;
+    width:7vw;
+    /* height:7vh; */
+    font-size:2vw;
+    font-weight:bold;
+}
+#menudw{
+    display:none;
+    z-index:2;
+    position:fixed;
+}
+#menudw button{
+    float:none;
+    display:block;
+    background-color: black;
+    border-style:inset;
+    border-radius:10%;
+    border-color:brown;
+    border-width:0.3vw;
+    width:14vw;
+    /* height:7vh; */
+    color:white;
+    font-size:2vw;
+    font-weight:bold;
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+#menu:hover #menudw{
+    display:block;
+}
+#menu:hover #menubt{
+    background-color: white;
+    border-color:rgb(168, 168, 168);
+}
+#menudw button:hover{
+    background-color: white;
+    color:black;
+}
+#review{
+    float:left;
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+#reviewbt{
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+    text-align: center;
+    background-color: black;
+    border-style:inset;
+    border-radius:25%;
+    border-color:white;
+    border-width:0.3vw;
+    color:brown;
+    width:8vw;
+    /* height:7vh; */
+    font-size:2vw;
+    font-weight:bold;
+}
+#review:hover #reviewbt{
+    background-color: white;
+    border-color:rgb(168, 168, 168);
+}
+#visit{
+    float:left;
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+#visitbt{
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+    text-align: center;
+    background-color: black;
+    border-style:inset;
+    border-radius:25%;
+    border-color:white;
+    border-width:0.3vw;
+    color:brown;
+    width:7vw;
+    /* height:7vh; */
+    font-size:2vw;
+    font-weight:bold;
+}
+#visit:hover #visitbt{
+    background-color: white;
+    border-color:rgb(168, 168, 168);
+}
+#feedback{
+    float:right;
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+#feedbackbt{
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+    text-align: center;
+    background-color: black;
+    border-style:inset;
+    border-radius:25%;
+    border-color:white;
+    border-width:0.3vw;
+    color:brown;
+    width:10vw;
+    /* height:7vh; */
+    font-size:2vw;
+    font-weight:bold;
+}
+#feedback:hover #feedbackbt{
+    background-color: white;
+    border-color:rgb(168, 168, 168);
+}
+#home{
+    float:left;
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+#homebt{
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+    text-align: center;
+    background-color: black;
+    border-style:inset;
+    border-radius:25%;
+    border-color:white;
+    border-width:0.3vw;
+    color:brown;
+    width:7vw;
+    /* height:7vh; */
+    font-size:2vw;
+    font-weight:bold;
+}
+#home:hover #homebt{
+    background-color: white;
+    border-color:rgb(168, 168, 168);
+}

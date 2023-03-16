@@ -1,0 +1,14 @@
+#name{
+    background-color: aqua;
+    color:chocolate;
+    padding-top:7%;
+}
+#namehide{
+    color:cyan;
+    font-size:0.001px;
+}
+#namename{
+    font-size: 3vw;
+    font-weight: bold;
+    font-style: italic;
+}
