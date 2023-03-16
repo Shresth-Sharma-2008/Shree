@@ -1,8 +1,8 @@
 function home(){
-    window.open("/","_top");
+    window.open("/shree/","_top");
 }
 function about(){
-    window.open("/html/about.html","_top")
+    window.open("/shree/html/about.html","_top")
 }
 function visit(){
     window.open("https://goo.gl/maps/CWJGvLyCDeGeYw7w8","_top")
@@ -18,5 +18,5 @@ function review(){
     window.open("","_top")
 }
 function feedback(){
-    window.open("/html/feedback.html","_top")
+    window.open("/shree/html/feedback.html","_top")
 }
